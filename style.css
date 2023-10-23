@@ -1,10 +1,9 @@
-h1 {
- color:rgb(206, 21, 21);
- text-align: center;
- font-size: 50px;
- }
+h1{
+  color:red;
+  text-align: center;
+  font-size: 50px;
+}
 
 .principal {
-   background: gray;
-   font-size: 50px;
- }
+  background: gray;
+}
