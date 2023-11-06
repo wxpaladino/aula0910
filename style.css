@@ -1,3 +1,12 @@
+body{
+  background-color:aqua;
+}
+
+#imagemsite {
+    width: 75%;   
+}
+
+
 h1{
     color:red;
     text-align: center;
@@ -6,4 +15,6 @@ h1{
 
 .principal {
     background: gray;
-}
+    font-size: 30px;
+
+} 
