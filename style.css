@@ -34,10 +34,16 @@ h1{
 
 #cabeçalho {
 margin-left: 70%;
-
+width: 15%;
+border-radius: 20px;
+vertical-align: top;
 }
 
-
+h3 {
+  color: aliceblue;
+  text-align: center;
+  font-size: 30px;
+}
 
 
 
